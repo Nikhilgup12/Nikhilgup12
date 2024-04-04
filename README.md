@@ -1,3 +1,4 @@
+![logo](https://github.com/Nikhilgup12/Nikhilgup12/blob/main/White%20And%20Blue%20Modern%20Personal%20Profile%20LinkedIn%20Background%20Photo.png))
 <h1 align="center">Hi 👋, I'm Nikhil Gupta</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
